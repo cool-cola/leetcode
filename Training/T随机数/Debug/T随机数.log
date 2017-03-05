@@ -1,0 +1,4 @@
+﻿  test.cpp
+e:\桌面\training\training\t随机数\test.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  T随机数.vcxproj -> E:\桌面\Training\Training\Debug\T随机数.exe
+  T随机数.vcxproj -> E:\桌面\Training\Training\Debug\T随机数.pdb (Full PDB)

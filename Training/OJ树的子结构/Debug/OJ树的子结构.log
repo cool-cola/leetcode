@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\桌面\training\training\oj树的子结构\main.cpp(47): warning C4553: '==': operator has no effect; did you intend '='?
+  OJ树的子结构.vcxproj -> E:\桌面\Training\Training\Debug\OJ树的子结构.exe
+  OJ树的子结构.vcxproj -> E:\桌面\Training\Training\Debug\OJ树的子结构.pdb (Full PDB)
