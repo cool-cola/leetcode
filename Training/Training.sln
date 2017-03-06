@@ -93,6 +93,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T随机数", "T随机数\T�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WD关键字static", "WD关键字static\WD关键字static.vcxproj", "{D629BAD0-12CA-4A6A-8C77-8BC8CAE23582}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HUAWEI_CodeCraft", "HUAWEI_CodeCraft\HUAWEI_CodeCraft.vcxproj", "{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OJ二叉树的镜像", "OJ二叉树的镜像\OJ二叉树的镜像.vcxproj", "{154E5009-32B5-4BD3-A9A4-400BEC40B248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -381,6 +385,22 @@ Global
 		{D629BAD0-12CA-4A6A-8C77-8BC8CAE23582}.Release|Win32.Build.0 = Release|Win32
 		{D629BAD0-12CA-4A6A-8C77-8BC8CAE23582}.Release|x64.ActiveCfg = Release|x64
 		{D629BAD0-12CA-4A6A-8C77-8BC8CAE23582}.Release|x64.Build.0 = Release|x64
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Debug|Win32.Build.0 = Debug|Win32
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Debug|x64.ActiveCfg = Debug|x64
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Debug|x64.Build.0 = Debug|x64
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Release|Win32.ActiveCfg = Release|Win32
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Release|Win32.Build.0 = Release|Win32
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Release|x64.ActiveCfg = Release|x64
+		{44EEE1E0-D898-4BEC-A5B2-F96075779E6E}.Release|x64.Build.0 = Release|x64
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Debug|Win32.ActiveCfg = Debug|Win32
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Debug|Win32.Build.0 = Debug|Win32
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Debug|x64.ActiveCfg = Debug|x64
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Debug|x64.Build.0 = Debug|x64
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Release|Win32.ActiveCfg = Release|Win32
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Release|Win32.Build.0 = Release|Win32
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Release|x64.ActiveCfg = Release|x64
+		{154E5009-32B5-4BD3-A9A4-400BEC40B248}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
